@@ -1,9 +1,7 @@
 # anticryptopro
 
-Репозиторий из статьи [Побег из КриптоПро](https://teletype.in/@li0ard/anticryptopro)
+Репозиторий из статьи [Побег из КриптоПро ч.2](https://teletype.in/@li0ard/anticryptopro_p2)
 
-## !!! ЭТА ВЕТКА ПРЕДНАЗНАЧЕНА ДЛЯ ГОСТ 2001
-
-`gost_pbe.go` - Скрипт для снятия транспортной кодировки
+`gost_pbe.go` - Скрипт для получения ключей
 
 `unwrap.py` - Скрипт для unwrap ключа
